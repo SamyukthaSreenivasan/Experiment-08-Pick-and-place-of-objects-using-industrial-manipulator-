@@ -66,8 +66,6 @@ Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
-
-
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
@@ -80,36 +78,20 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 13 36 21_ecdbc1f9](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/a34e8228-21d8-4f8b-bb61-b18c31528285)
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 13 36 16_c23663a9](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/22b90071-bc2e-4a09-b7aa-6238b52d8704)
 
+![WhatsApp Image 2024-04-22 at 13 36 17_4bffec4b](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/04df155f-0b53-40e6-be43-8a6e32ce186f)
 
+![WhatsApp Image 2024-04-22 at 13 36 17_f46d1a18](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/ab412dac-1de6-4a0f-88f7-e332197e1157)
 
+![WhatsApp Image 2024-04-22 at 13 36 18_223267d9](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/a7717ca8-009a-42b3-868d-be31c80f779a)
 
+![WhatsApp Image 2024-04-22 at 13 36 19_b8408b7f](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475703/538c4872-0f55-4dc4-a2a1-9154cebf4535)
 
 
 
 ### Results: 
-
-
-
-
-
-
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt.
